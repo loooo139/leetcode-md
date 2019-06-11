@@ -1,2 +1,3 @@
-# leetcode-md
- ##this solutions for leetcode
+# leetcode-Solutions
+ ##  This solutions for leetcoder
+
