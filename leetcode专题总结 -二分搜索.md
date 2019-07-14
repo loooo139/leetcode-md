@@ -34,12 +34,12 @@ int binarySearch(int left,int right){
 
 二分搜索的难点在于g(x)的定义，注意尽量不要在循环里面判断返回，容易出错。可以记住返回的是满足g(x)的最小值，而不是直接对g(x)进行求解。
 
-![1562771635547](.\asset\1562771635547.png)
+![1562771635547](https://raw.githubusercontent.com/loooo139/leetcode-md/master/asset/1562771635547.png)
 
-![1562771672480](.\asset\1562771672480.png)
+![1562771672480](https://raw.githubusercontent.com/loooo139/leetcode-md/master/asset/1562771672480.png)
 
-![1563108721740](.\asset\1563108721740.png)
+![1563108721740](https://raw.githubusercontent.com/loooo139/leetcode-md/master/asset/1563108721740.png)
 
 ![1563110269832](E:\personal\2019\asset\1563110269832.png)
 
-![1563110343648](.\asset\1563110343648.png)
+![1563110343648](https://raw.githubusercontent.com/loooo139/leetcode-md/master/asset/1562771635547.png)
