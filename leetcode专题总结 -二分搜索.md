@@ -37,3 +37,9 @@ int binarySearch(int left,int right){
 ![1562771635547](C:\Users\lixuefeng\AppData\Roaming\Typora\typora-user-images\1562771635547.png)
 
 ![1562771672480](C:\Users\lixuefeng\AppData\Roaming\Typora\typora-user-images\1562771672480.png)
+
+![1563108721740](E:\personal\2019\asset\1563108721740.png)
+
+![1563110269832](E:\personal\2019\asset\1563110269832.png)
+
+![1563110343648](E:\personal\2019\asset\1563110343648.png)
